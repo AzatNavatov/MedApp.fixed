@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\u043E\\mydesktop\\MED\\MedApp - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6525D6D-002D-4C85-BBAC-EF39C136B2CB}|MedApp\\MedApp.csproj|d:\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\u043E\\mydesktop\\med\\medapp - copy\\medapp\\views\\patient\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6525D6D-002D-4C85-BBAC-EF39C136B2CB}|MedApp\\MedApp.csproj|solutionrelative:medapp\\views\\patient\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6525D6D-002D-4C85-BBAC-EF39C136B2CB}|MedApp\\MedApp.csproj|d:\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\u043E\\mydesktop\\med\\medapp - copy\\medapp\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6525D6D-002D-4C85-BBAC-EF39C136B2CB}|MedApp\\MedApp.csproj|solutionrelative:medapp\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6525D6D-002D-4C85-BBAC-EF39C136B2CB}|MedApp\\MedApp.csproj|d:\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\u043E\\mydesktop\\med\\medapp - copy\\medapp\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F6525D6D-002D-4C85-BBAC-EF39C136B2CB}|MedApp\\MedApp.csproj|solutionrelative:medapp\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 360,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\u043E\\mydesktop\\MED\\MedApp - Copy\\MedApp\\Views\\Doctor\\Index.cshtml",
+              "RelativeDocumentMoniker": "MedApp\\Views\\Doctor\\Index.cshtml",
+              "ToolTip": "D:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\u043E\\mydesktop\\MED\\MedApp - Copy\\MedApp\\Views\\Doctor\\Index.cshtml",
+              "RelativeToolTip": "MedApp\\Views\\Doctor\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-24T13:16:27.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "D:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\u043E\\mydesktop\\MED\\MedApp - Copy\\MedApp\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "MedApp\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "D:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\u043E\\mydesktop\\MED\\MedApp - Copy\\MedApp\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "MedApp\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-24T13:14:21.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\u043E\\mydesktop\\MED\\MedApp - Copy\\MedApp\\Views\\Patient\\Create.cshtml",
+              "RelativeDocumentMoniker": "MedApp\\Views\\Patient\\Create.cshtml",
+              "ToolTip": "D:\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\u043E\\mydesktop\\MED\\MedApp - Copy\\MedApp\\Views\\Patient\\Create.cshtml",
+              "RelativeToolTip": "MedApp\\Views\\Patient\\Create.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-10T04:09:43.336Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

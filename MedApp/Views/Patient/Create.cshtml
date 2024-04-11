@@ -1,0 +1,51 @@
+﻿@using MedApp.Data.Enums
+@model Patient
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<form>
+    <div class="form-group">
+        <label asp-for="Person.FirstName" >Your name</label>
+        <input asp-for="Person.FirstName" class="form-control"  placeholder="FirstName">
+        <span asp-validation-for="Person.FirstName" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Person.LastName">Your surname</label>
+        <input asp-for="Person.LastName" class="form-control" placeholder="LastName">
+        <span asp-validation-for="Person.LastName" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Person.Gender">Your gender</label>
+        <input asp-for="Person.Gender" class="form-control" placeholder="Gender">
+        <span asp-validation-for="Person.Gender" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Person.Age">Your age</label>
+        <input asp-for="Person.Age" class="form-control" placeholder="Age">
+        <span asp-validation-for="Person.Age" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Card.Allergy">Do you have allergy?</label>
+        <select asp-for="Card.Allergy" class="form-control">
+            <option value="true">Yes</option>
+            <option value="false">No</option>
+        </select>
+        <span asp-validation-for="Card.Allergy" class="text-danger"></span>
+    </div>    
+    <div class="form-group">
+        <label asp-for="Card.Diagnosis">Your issue</label>
+        <select asp-for="Card.Diagnosis" asp-items="@Html.GetEnumSelectList<Diagnosys>()"
+                class="form-control">
+            <option>--Select--</option>
+        </select>
+        <span asp-validation-for="Card.Diagnosis" class="text-danger"></span>
+    </div>
+
+    <div class="form-check">
+        <input type="checkbox" class="form-check-input" id="exampleCheck1">
+        <label class="form-check-label" for="exampleCheck1">Check me out</label>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
