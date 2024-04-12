@@ -3,5 +3,6 @@
 public enum Diagnosys
 {
     Caries,
-    Myopia
+    Myopia,
+    Blindness
 }
