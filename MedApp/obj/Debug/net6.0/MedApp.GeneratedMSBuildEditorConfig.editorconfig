@@ -9,55 +9,55 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MedApp
 build_property.RootNamespace = MedApp
-build_property.ProjectDir = D:\Рабочий столо\mydesktop\MED\MedApp - Copy\MedApp\
+build_property.ProjectDir = D:\Рабочий столо\mydesktop\MED\MedAppClone\MedApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Рабочий столо\mydesktop\MED\MedApp - Copy\MedApp
+build_property.MSBuildProjectDirectory = D:\Рабочий столо\mydesktop\MED\MedAppClone\MedApp
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Рабочий столо/mydesktop/MED/MedApp - Copy/MedApp/Views/Doctor/Index.cshtml]
+[D:/Рабочий столо/mydesktop/MED/MedAppClone/MedApp/Views/Doctor/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Рабочий столо/mydesktop/MED/MedApp - Copy/MedApp/Views/Home/Index.cshtml]
+[D:/Рабочий столо/mydesktop/MED/MedAppClone/MedApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Рабочий столо/mydesktop/MED/MedApp - Copy/MedApp/Views/Home/Privacy.cshtml]
+[D:/Рабочий столо/mydesktop/MED/MedAppClone/MedApp/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Рабочий столо/mydesktop/MED/MedApp - Copy/MedApp/Views/Patient/Create.cshtml]
+[D:/Рабочий столо/mydesktop/MED/MedAppClone/MedApp/Views/Patient/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Рабочий столо/mydesktop/MED/MedApp - Copy/MedApp/Views/Patient/Detail.cshtml]
+[D:/Рабочий столо/mydesktop/MED/MedAppClone/MedApp/Views/Patient/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFxEZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Рабочий столо/mydesktop/MED/MedApp - Copy/MedApp/Views/Patient/Index.cshtml]
+[D:/Рабочий столо/mydesktop/MED/MedAppClone/MedApp/Views/Patient/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Рабочий столо/mydesktop/MED/MedApp - Copy/MedApp/Views/Shared/Error.cshtml]
+[D:/Рабочий столо/mydesktop/MED/MedAppClone/MedApp/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Рабочий столо/mydesktop/MED/MedApp - Copy/MedApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Рабочий столо/mydesktop/MED/MedAppClone/MedApp/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Рабочий столо/mydesktop/MED/MedApp - Copy/MedApp/Views/_ViewImports.cshtml]
+[D:/Рабочий столо/mydesktop/MED/MedAppClone/MedApp/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Рабочий столо/mydesktop/MED/MedApp - Copy/MedApp/Views/_ViewStart.cshtml]
+[D:/Рабочий столо/mydesktop/MED/MedAppClone/MedApp/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Рабочий столо/mydesktop/MED/MedApp - Copy/MedApp/Views/Shared/_Layout.cshtml]
+[D:/Рабочий столо/mydesktop/MED/MedAppClone/MedApp/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-o0tpjss94f

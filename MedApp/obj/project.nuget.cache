@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7qXsVbd7hRCEadQKVQ0W7VIQLUngTebgk2iLr7xhj69NdXefVZ2+PboUfIFP7osQRKl6oZ1v3RqbHXDUUsrh0g==",
+  "dgSpecHash": "+M8+Ga0/IT3tFGjiXdjFthU4TTWnirLlDcVLPgYgf1+uwjqi+x+exs/VYFqxaNet0OJ7V/syItg5U+TmUML79w==",
   "success": true,
-  "projectFilePath": "D:\\Рабочий столо\\mydesktop\\MED\\MedApp - Copy\\MedApp\\MedApp.csproj",
+  "projectFilePath": "D:\\Рабочий столо\\mydesktop\\MED\\MedAppClone\\MedApp\\MedApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\99677\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\99677\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

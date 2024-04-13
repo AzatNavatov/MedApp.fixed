@@ -4,5 +4,6 @@ public enum Diagnosys
 {
     Caries,
     Myopia,
-    Blindness
+    Blindness,
+    ChangeAfterClone1
 }

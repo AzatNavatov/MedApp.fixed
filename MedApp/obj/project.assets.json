@@ -2018,11 +2018,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Рабочий столо\\mydesktop\\MED\\MedApp - Copy\\MedApp\\MedApp.csproj",
+      "projectUniqueName": "D:\\Рабочий столо\\mydesktop\\MED\\MedAppClone\\MedApp\\MedApp.csproj",
       "projectName": "MedApp",
-      "projectPath": "D:\\Рабочий столо\\mydesktop\\MED\\MedApp - Copy\\MedApp\\MedApp.csproj",
+      "projectPath": "D:\\Рабочий столо\\mydesktop\\MED\\MedAppClone\\MedApp\\MedApp.csproj",
       "packagesPath": "C:\\Users\\99677\\.nuget\\packages\\",
-      "outputPath": "D:\\Рабочий столо\\mydesktop\\MED\\MedApp - Copy\\MedApp\\obj\\",
+      "outputPath": "D:\\Рабочий столо\\mydesktop\\MED\\MedAppClone\\MedApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\99677\\AppData\\Roaming\\NuGet\\NuGet.Config",
